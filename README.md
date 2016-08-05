@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a basic landing page for my web programming portfolio. It gives info about me and projects I'm working on and gives links to contact me._
+_This is a basic landing page for my web programming portfolio. It gives info about me and projects I'm working on and provides links to contact me._
 
 ## Setup/Installation Requirements
 
@@ -16,9 +16,9 @@ _This is a basic landing page for my web programming portfolio. It gives info ab
 
 ## Link
 
-blakescala.github.io/portfolio
+http://blakescala.github.io/portfolio
 
 ### License
 
-Copyright (c) 2016 **_{Blake Scala}_**
+Copyright (c) 2016 **_Blake Scala_**
 Licensed under the MIT license.
