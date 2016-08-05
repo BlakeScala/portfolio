@@ -111,3 +111,19 @@ body {
 .wide {
   font-stretch: extra-expanded;
 }
+
+#guitar {
+  float: right;
+  width: 120px;
+  margin-right: 10%;
+  margin-left: 10px;
+}
+#contact {
+  color: darkblue;
+  font-weight: bolder;
+}
+#epicodus {
+  width: inherit;
+  margin-left: 25%;
+  margin-right: 25%;
+}
