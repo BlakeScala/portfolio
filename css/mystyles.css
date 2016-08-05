@@ -100,10 +100,13 @@ body {
   text-align: center;
   font-size: 38px;
   font-weight: bold;
+  padding: 10px;
+  border: 3px solid black;
+  background-color: #f2f2f2;
 }
 #stanhope {
   float: right;
-  height: 120px;
+  width: 40%;
   margin: 10px;
 }
 .wide {
@@ -112,7 +115,7 @@ body {
 
 #guitar {
   float: right;
-  width: 120px;
+  width: 30%;
   margin-right: 10%;
   margin-left: 10px;
 }
@@ -121,7 +124,9 @@ body {
   font-weight: bolder;
 }
 #epicodus {
-  width: 200px;
-  margin-left: 25%;
-  margin-right: 25%;
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
 }
