@@ -20,5 +20,6 @@ http://blakescala.github.io/portfolio
 
 ### License
 
-Copyright (c) 2016 **_Blake Scala_**
+Copyright (c) 2016 **_Blake Scala_**.
+
 Licensed under the MIT license.
